@@ -7,7 +7,7 @@
 <b>Derste anlatılacaklar:</b>
 
 <ul>
-  <li>Grid yapısı( col-md yapısı, container, row)</li>
+  <li>Grid yapısı( column, container, row)</li>
   <li>Nav</li>
   <li>Navbar</li>
   <li>Button</li>
