@@ -10,11 +10,11 @@
   <li>Grid yapısı( column, container, container-fluid, row)</li>
   <li>Nav</li>
   <li>Navbar</li>
+  <li>Dropdown menu</li>
+  <li>Panel</li>
+  <li>Modal</li>
   <li>Button</li>
   <li>Table</li>
-  <li>Dropdown menu</li>
   <li>Alert</li>
-  <li>Panel</li>
-  <li>Wells</li>
   <li>Carousel</li>
 </ul>	
