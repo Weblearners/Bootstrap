@@ -17,4 +17,10 @@
   <li>Table</li>
   <li>Alert</li>
   <li>Carousel</li>
+  <li>Glyphicons</li>
+  <li>Pagination</li>
+  <li>Breadcrumbs</li>
+  <li>Jumbotron</li>
+  <li>Badges(Gmail taslağı için)</li>
 </ul>	
+
